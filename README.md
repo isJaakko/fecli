@@ -21,7 +21,14 @@
 3. 生成前后端一体的项目脚手架
 4. 为生成的项目提供 `JavaScript`、`TypeScript` 选项
 
+**可选项：**
+- 项目名称
+- 项目简介
+- 使用语言
+
 ## 文档
 开发文档记录一下开发过程以及踩坑等。
+
+如何开发一个CLI工具： http://note.youdao.com/noteshare?id=c7e672a8c477b3337417db15bafedf34
 
 ## 参考
