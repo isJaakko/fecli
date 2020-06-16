@@ -5,8 +5,8 @@ module.exports = {
   },
   plugins: ['prettier'],
   extends: [
-    'standard', //使用standard做代码规范
-    'prettier'
+    // 'standard', //使用standard做代码规范
+    // 'prettier'
   ],
   rules: {
     'prettier/prettier': 'error'
